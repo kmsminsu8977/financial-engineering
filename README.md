@@ -23,7 +23,7 @@
 
 금융시장 리스크 모델, 자산가격 모형, 금리 예측, VaR, 시뮬레이션 연구를 다룹니다.
 
-- Category Page: [financial-risk-modeling.md](projects/financial-risk-modeling.md)
+- Category Page: [Financial Risk Modeling](projects/financial-risk-modeling.md)
 
 ### 2. Derivatives and Risk Management
 
